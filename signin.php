@@ -4,7 +4,7 @@
 
 <div class="container container-limited mt-5">
     <h3 class="my-3 text-center"> Login Page</h3>
-    <form action="">
+    <form action="" method="post">
         <div class="mb-3">
             <label for="email address" class="form-label">Email Address</label>
             <input type="email" class="form-control" name="email" aria-activedescendant="email"

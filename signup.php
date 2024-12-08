@@ -4,7 +4,7 @@
 
 <div class="container container-limited mt-5">
     <h3 class="my-3 text-center"> Register Page</h3>
-    <form action="">
+    <form action="" method="post">
         <div class="mb-3">
             <label for="name" class="form-label">Name</label>
             <input type="name" class="form-control" name="name" aria-activedescendant="name"
